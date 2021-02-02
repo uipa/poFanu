@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    font-size: 20px;
+}
+h2{
+    color: chartreuse;
+    font-size: 30px;
+}
+body{
+    background-color: blueviolet;
+}
+p{
+    color: brown;
+    font-size: 50px;
+}
